@@ -9,7 +9,7 @@
 1. Clone Project
 
 ```bash
-  git clone <my-cool-project>
+  git clone https://github.com/naufalkhaddafy/test-metamata-internship.git
 ```
 
 2. Install Composer
